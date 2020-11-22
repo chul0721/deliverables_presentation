@@ -1,0 +1,11 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "영재학급 산출물 프로젝트",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "int",
+  "license": "ISC"
+}
